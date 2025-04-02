@@ -1,0 +1,21 @@
+# Python garbage
+*.pyc
+__pycache__/
+
+# Output files
+*_SignalSV/
+*.csv
+*.tsv
+*.png
+*.svg
+*.html
+*.fq
+*.fasta.fai
+*.gam
+*.xg
+*.nwk
+
+# OS + IDE junk
+.DS_Store
+.ipynb_checkpoints
+

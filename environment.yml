@@ -1,0 +1,17 @@
+name: SignalSV
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - biopython
+  - pandas
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - scipy
+  - dtaidistance
+  - pip
+  - pip:
+      - fastdtw
+

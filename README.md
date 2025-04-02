@@ -97,4 +97,4 @@ MIT License. See `LICENSE` for details.
 
 ## ✨ Acknowledgements
 
-This tool was developed with ❤️ by [Gutierrez-Escobar-AJ](https://github.com/Gutierrez-Escobar-AJ) to improve SV detection in bacterial and compact genomes.
+This tool was developed with ❤️ by [Gutierrez-Escobar-AJ](https://github.com/Gutierrez-Escobar-AJ).

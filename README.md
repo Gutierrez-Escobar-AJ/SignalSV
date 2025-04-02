@@ -4,7 +4,7 @@
 
 # SignalSV
 
-**SignalSV** is a modular simulation and analysis pipeline designed to explore and evaluate entropy-based signals associated with small structural variants. It generates synthetic DNA small SV fragments, profiles them using spaced k-mer entropy, applies unsupervised clustering, and computes probabilistic scores to assess signal strength. SignalSV is built for research, prototyping, and benchmarking — not for production variant calling.
+**SignalSV** is a modular simulation and analysis pipeline designed to explore and evaluate entropy-based signals associated with small structural variants. It generates synthetic DNA small SV fragments, profiles them using spaced k-mer entropy, applies unsupervised clustering, and computes probabilistic scores to assess signal strength. SignalSV is built for research, prototyping, and benchmarking.
 
 ---
 

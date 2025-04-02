@@ -19,3 +19,8 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints
 
+# Ignore all PNGs...
+*.png
+
+# ...but NOT the logo
+!logo/logo.png

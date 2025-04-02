@@ -4,7 +4,7 @@
 
 # SignalSV
 
-**SignalSV** is a modular and lightweight structural variation detection framework built for microbial and compact genomes using **spaced k-mer entropy profiling**. It combines simulation, entropy analysis, unsupervised clustering, and probabilistic evaluation into a seamless and reproducible pipeline.
+**SignalSV** is a modular simulation and analysis pipeline designed to explore and evaluate entropy-based signals associated with structural variation. It generates synthetic DNA fragments with structural variants, profiles them using spaced k-mer entropy, applies unsupervised clustering, and computes probabilistic scores to assess signal strength. SignalSV is built for research, prototyping, and benchmarking — not for production variant calling.
 
 ---
 

@@ -8,6 +8,11 @@
 
 ---
 
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15132676.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
 ## 🚀 Features
 
 - Small SV simulation with ground truth.
@@ -92,6 +97,14 @@ All results will be saved in the `<prefix>_SignalSV/` folder:
 ## 📄 License
 
 MIT License. See `LICENSE` for details.
+
+---
+
+## 📖 How to Cite SignalSV
+
+If you use **SignalSV** in your research or project, please cite:
+
+> Gutierrez-Escobar AJ. (2024). *SignalSV: A Modular Entropy-Based Framework for Structural Variant Detection*. Zenodo. https://doi.org/10.5281/zenodo.15132676
 
 ---
 
